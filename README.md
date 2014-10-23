@@ -5,4 +5,4 @@ hello-world
 - [ ] get someone to do a pull request
 - [ ] get an @mention
 
-Emoji is fun :sparkles: :tada: :octocat:
+Emoji is fun :sparkles: :tada: :octocat: :camel: :octocat: :tada:
